@@ -22,9 +22,6 @@ Just a team that loves sharing ideas with the world!
   - [Hookcord.js](https://github.com/Slyrith/Hookcord.js)
   - Tapp.js (on progress)
   
-- Theme
-  - [Minesweeper Online Black Theme](https://github.com/Slyrith/Minesweeper-Online-Black-Theme.)
-  
 - Snippets
   - [Aoi.js Snippets](https://github.com/Slyrith/Aoi.js-Snippets)
 
